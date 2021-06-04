@@ -12,7 +12,7 @@
 ### Purpose
      
      
-   **The purpose of this work is to clean and organize the data obtained by the fundraising event results to make a successful report that demonstrates our findings based on their launch dates and goals.**
+   **The purpose of this work is to clean and organize the data obtained from the fundraising event's results to make a successful report that demonstrates our findings based on their launch dates and goals.**
 
 
 
